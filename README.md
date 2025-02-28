@@ -28,7 +28,7 @@ Below are the 10 questions covered in this module:
 1. Clone this repository:  
 
     ```sh
-        git clone <repo-url>
+        git clone https://github.com/anirudha-8/js-loops.git
     ```
 
 2. Navigate to the project folder:
