@@ -17,7 +17,7 @@ Below are the 10 questions covered in this module:
 | 5  | Use a do...while loop to log numbers from 5 to 1. | [🔗 5-Problem](./5-Problem.js) |
 | 6  | Create a for loop that calculates the factorial of 5. | [🔗 6-Problem](./6-Problem.js) |
 | 7  | Write a nested loop to print a 3×3 grid of numbers. | [🔗 7-Problem](./7-Problem.js) |
-| 8  | Use a for loop to  an array `[1, 2, 3, 4]`. | [🔗 8-Problem](./8-Problem.js) |
+| 8  | Use a for loop to reverse an array `[1, 2, 3, 4]`. | [🔗 8-Problem](./8-Problem.js) |
 | 9  | Write a while loop to log numbers from 1 to 100 divisible by 5. | [🔗 9-Problem](./9-Problem.js) |
 | 10 | Use a for...in loop to iterate over an object and log its keys. | [🔗 10-Problem](./10-Problem.js) |
 
