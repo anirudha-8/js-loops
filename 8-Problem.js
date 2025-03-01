@@ -12,6 +12,7 @@ console.log("Reversed array is: ", reversedNumbersArray);
 
 // Use when in-place replacement is required
 // optimized solution, no extra space required
+// know as : 2-Pointer Approach
 console.log("original array is: ", numbersArray);
 for (let i = 0; i < numbersArray.length / 2; i++) {
 	let temp = numbersArray[i];
